@@ -1,6 +1,6 @@
 
 name: conversor_cambio
-description: Aplicativo de conversão de câmbio com splash screen
+description: Aplicativo de conversão de câmbio
 publish_to: 'none'
 
 # The following defines the version and build number for your application.
@@ -84,3 +84,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
